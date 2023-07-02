@@ -1,2 +1,5 @@
-.env
+# Local enviroments 
+.env.local
+
+# Composer folder
 /vendor
