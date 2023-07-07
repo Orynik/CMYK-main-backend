@@ -1,0 +1,2 @@
+# Смена конфига
+sudo update-alternatives --config php
