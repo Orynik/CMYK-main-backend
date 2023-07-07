@@ -1,2 +1,7 @@
 # Смена конфига
 sudo update-alternatives --config php
+
+# unix
+
+## Заход под username
+sudo su - username
