@@ -1,5 +1,7 @@
-# Local enviroments 
+# Local enviroments
 .env.local
 
 # Composer folder
-/vendor
+vendor
+.git
+.idea
